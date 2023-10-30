@@ -1,0 +1,1 @@
+export const ACCESSLEVEL = ["si", "inspector", "constable"];
