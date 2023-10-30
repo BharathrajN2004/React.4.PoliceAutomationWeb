@@ -41,11 +41,11 @@ const Dashboard = () => {
       {/* Tables & Charts */}
 
       {/* Traffic chart & Pie Chart */}
-      {/* {accessLevel != ACCESSLEVEL[3] &&
+      {accessLevel != ACCESSLEVEL[3] &&
         <div className="mt-5 grid grid-cols-1 gap-5 rounded-[20px] md:grid-cols-2">
           <DailyTraffic />
           <PieChartCard />
-        </div>} */}
+        </div>}
 
       {
         // accessLevel == ACCESSLEVEL[3] &&
